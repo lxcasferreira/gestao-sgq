@@ -1,4 +1,4 @@
-# 📊 Sistema de Gestão de Qualidade – G2L
+# 📊 Sistema de Gestão de Qualidade
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript\&logoColor=black)
